@@ -1,9 +1,5 @@
 # ECEN 5273: Network Systems: Programming Assignment 3 #
 
-Author: Virag Gada
-
-Date: 11/12/2017
-
 Goal: To create a Dstributed File System for reliable and secure file storage.
 
 Programming Language - C
